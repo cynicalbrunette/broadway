@@ -8,12 +8,34 @@
 }
 h1 {
  font-size: 70px;
- font-weigh: bold;
+ font-weight: bold;
 }
 a {
   color: White;
+  font-size: 18px;
 }
-#footer {
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+p {
+  font-size: 14px;
+}
+#footer p {
+  background-color: dimgray;
+  color: White;
+  text-align: left;
+  font-size: 14px;
+}
+#baseborder h1 {
+  font-size: 23px;
+}
+.copyright {
+  font-size: 11px;
   background-color: dimgray;
   color: White;
   text-align: left;
